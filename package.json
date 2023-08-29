@@ -1,5 +1,5 @@
 {
-  "name": "101-app",
+  "name": "docker-nodejs",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "jest": "^29.6.2",
-    "nodemon": "^2.0.20",
+    "nodemon": "^3.0.1",
     "prettier": "^2.7.1"
   }
 }
